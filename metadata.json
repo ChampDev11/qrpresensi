@@ -1,0 +1,16 @@
+{
+  "name": "PresensiQR - Smart School Attendance & Geofencing",
+  "description": "Sistem Presensi Sekolah Berbasis Dynamic QR Code 10-Detik & Geofencing Haversine Anti-Kecurangan dengan Dashboard Admin, Guru/Proyektor & Mobile Siswa.",
+  "Description": "Set app metadata name and description",
+  "Overwrite": true,
+  "TargetFile": "/metadata.json",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "toolAction": "Updating metadata.json",
+  "toolSummary": "Configure app metadata"
+}
